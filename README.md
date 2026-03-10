@@ -45,6 +45,3 @@ La Tienda 4 presenta el menor ingreso promedio.
 
 # 👨🏻‍💻 Elaborado
 Elaborado por Kevin Mazariegos
-
-🧠 Tecnologías utilizadas
-Herramienta	Uso principal
